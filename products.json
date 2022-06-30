@@ -1,0 +1,25 @@
+[
+  {
+    "id": "Prod1",
+    "name": "Online Product #1",
+    "type": "online",
+    "qty": null,
+    "price": 10.5
+  },
+  {
+    "id": "Prod2",
+    "name": "Shipping Product #2",
+    "type": "physical",
+    "qty": 55,
+    "price": 17.5,
+    "shipping_price": 10
+  },
+  {
+    "id": "Prod3",
+    "name": "Online Course Product #3",
+    "type": "physical",
+    "qty": 55,
+    "price": 17.5,
+    "shipping_price": 10
+  }
+]
